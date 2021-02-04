@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "spider",
+      "type": "com.shisan.spider.config.SpiderConfig",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spider.charset",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.thread",
+      "type": "java.lang.Integer",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.token",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.token-name",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.url",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    }
+  ],
+  "hints": []
+}
